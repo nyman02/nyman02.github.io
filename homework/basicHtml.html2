@@ -6,7 +6,7 @@
   a:link {color:blue; text-decoration:none;} a:visited { color:purple; text-decoration:none;}
   a:hover { text-decoration:underline;} a:active {color:red; text-decoration:none;}
   </style>
-  <title>20XX년도 목록</title>
+  <title>2022년도 목록</title>
 </head>
 <body>
 <header></header>
